@@ -34,4 +34,4 @@ while True:
             break
 
     except ValueError:
-        print("Invalid input. Please enter a valid number.")
+        print("Invalid input. Please enter a valid number. iyo d aaa iyo ra ")
